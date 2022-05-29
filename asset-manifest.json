@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/KartikayFTW/multistepform/filtersortcart/static/css/main.9449df23.css",
-    "main.js": "/KartikayFTW/multistepform/filtersortcart/static/js/main.e388f435.js",
-    "index.html": "/KartikayFTW/multistepform/filtersortcart/index.html",
-    "main.9449df23.css.map": "/KartikayFTW/multistepform/filtersortcart/static/css/main.9449df23.css.map",
-    "main.e388f435.js.map": "/KartikayFTW/multistepform/filtersortcart/static/js/main.e388f435.js.map"
+    "main.css": "/KartikayFTW/filtersortcart/static/css/main.9449df23.css",
+    "main.js": "/KartikayFTW/filtersortcart/static/js/main.e388f435.js",
+    "index.html": "/KartikayFTW/filtersortcart/index.html",
+    "main.9449df23.css.map": "/KartikayFTW/filtersortcart/static/css/main.9449df23.css.map",
+    "main.e388f435.js.map": "/KartikayFTW/filtersortcart/static/js/main.e388f435.js.map"
   },
   "entrypoints": [
     "static/css/main.9449df23.css",
